@@ -1,0 +1,9 @@
+datasets 
+torchtext==0.15.2 
+torch==2.0.1
+torchvision 
+pytorch-lightning 
+torchmetrics 
+gensim 
+nltk
+# scikit-learn
